@@ -16,11 +16,11 @@ import pandas
 
 ## Materials-Equiments
 
-# UNITS, TERMS, DEFINITIONS
+## Units, Terms and Definitions
 
-# PROCEDURE
+## Procedure
 
-# LINKS TO RESOURCES AND SUPPLIERS
+# Links to Resources and SUPPLIERS
 
 # Data Analysis
 
