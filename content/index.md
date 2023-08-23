@@ -14,15 +14,15 @@ import pandas
 
 ## Background
 
-## Materials-Equiments
+## Materials-Equipments
 
 ## Units, Terms and Definitions
 
 ## Procedure
 
-# Links to Resources and SUPPLIERS
+## Links to resources and suppliers
 
-# Data Analysis
+## Data Analysis
 
-# LITERATURE REFERENCES
+## Literature references
 
