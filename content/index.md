@@ -1,5 +1,5 @@
 ---
-title: Western Droughtbox user guide
+title: HIE Droughtbox user guide
 ---
 
 This user guide describes the main principles of how to use the  
