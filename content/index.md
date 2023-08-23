@@ -12,7 +12,6 @@ This protocol explains how to measure cuticular conductance and phase using the 
 import pandas
 ```
 
-# LITERATURE REFERENCES
+# BACKGROUND
 
-
-
+# MATERIALS/EQUIPMENT
