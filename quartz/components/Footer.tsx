@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
       <footer>
         <hr />
         <p>
-          Created with no footer
+          
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

@@ -1,8 +1,12 @@
 ---
-title: droughtbox user guide
+title: Droughtbox user guide
 ---
 
 # Introduction
+
+```python
+import pandas
+```
 
 
 
