@@ -14,4 +14,5 @@ Testing git
 
 another git test
 
+git status
 
