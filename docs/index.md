@@ -2,9 +2,11 @@
 
 Testing github actions
 
-## Project layout
+This user guide describes the main principles of how to use the  
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+#  OVERVIEW
+
+This protocol explains how to measure cuticular conductance and phase blabla using the  [DroughtBox](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.13750). 
+
+## Background
+
