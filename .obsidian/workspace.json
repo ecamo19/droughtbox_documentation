@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "d5c7730d852cd13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "694badfaa99db114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d490cd53d1d96bb1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0e953429bfa3589",
+    "type": "split",
+    "children": [
+      {
+        "id": "531f49ca79395f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c341b0b3496b2a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8408fead7717ae1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1387ae66fb7feaca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c12279e3521adaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c65477fd09defcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e86d8d9f2166f6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7999eae3794e74ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cce8adc01cf2f2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cee126d6a6bbc79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d490cd53d1d96bb1",
+  "lastOpenFiles": [
+    "content/index.md",
+    "public/tags/LITERATURE.html",
+    "public/tags/PROCEDURE.html",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/static/contentIndex.json",
+    "public/static",
+    "public/index.xml",
+    "public/sitemap.xml",
+    "public/tags/index.html",
+    "public/tags",
+    "public/index.html",
+    "public/prescript.js",
+    "node_modules/mathjax-full/README.md",
+    "node_modules/mathjax-full/CONTRIBUTING.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/shiki/README.md",
+    "node_modules/jsdom/README.md",
+    "node_modules/@esbuild/darwin-x64/README.md",
+    "node_modules/@esbuild-kit/core-utils/node_modules/@esbuild/darwin-x64/README.md",
+    "node_modules/speech-rule-engine/bin/README.md",
+    "node_modules/speech-rule-engine/README.md",
+    "node_modules/katex/README.md",
+    "node_modules/katex/src/metrics/README.md",
+    "node_modules/sass/README.md",
+    "node_modules/prettier/README.md",
+    "node_modules/preact/README.md",
+    "node_modules/speech-rule-engine/lib/README.md",
+    "node_modules/resolve/SECURITY.md",
+    "node_modules/flexsearch/README.md",
+    "node_modules/flexsearch/CHANGELOG.md",
+    "node_modules/rimraf/README.md",
+    "node_modules/parse5/README.md",
+    "node_modules/cssstyle/README.md",
+    "node_modules/mj-context-menu/README.md",
+    "node_modules/glob/README.md",
+    "node_modules/entities/readme.md",
+    "node_modules/psl/browserstack-logo.svg",
+    "node_modules/cli-spinner/img/spinner.gif"
+  ]
+}
