@@ -34,7 +34,7 @@ title: General
   <tr>
    <td><em>g<sub>res</sub></em>
    </td>
-   <td>Residual water-loss from small branches
+   <td>Residual water-loss from small branches ()
    </td>
    <td>H<sub>2</sub>O m<sup>−2</sup> s<sup>−1</sup>
    </td>
