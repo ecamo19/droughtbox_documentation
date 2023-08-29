@@ -1,5 +1,5 @@
 ---
-title: Dermination of water loss from small branches (gres)
+title: Dermination of residual water loss from small branches 
 ---
 
 ## Procedure
