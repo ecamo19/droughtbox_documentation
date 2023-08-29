@@ -1,5 +1,5 @@
 ---
-title: Phase transition (T_p) of $g_{res}$ 
+title: Phase transition (Tp) 
 ---
 
 ## Procedure
