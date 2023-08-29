@@ -9,19 +9,23 @@ theme:
   #name: material
 
 
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy 
+  #features:
+  #  - navigation.tabs
+  #  - navigation.sections
+  #  - toc.integrate
+  #  - navigation.top
+  # - search.suggest
+  #  - search.highlight
+  #  - content.tabs.link
+  #  - content.code.annotation
+  #  - content.code.copy 
   
   palette:
     primary: custom
+
+    extra_css:
+      - stylesheets/extra.css
+
   #palette:
   #  - scheme: default
   #    primary: green
