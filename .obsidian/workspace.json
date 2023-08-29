@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4_test_experiment_2.md",
+                "file": "docs/2_general.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/4_test_experiment_2.md",
+                "file": "docs/2_general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/4_test_experiment_2.md",
+                "file": "docs/2_general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/4_test_experiment_2.md"
+                "file": "docs/2_general.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c341b0b3496b2a7",
+  "active": "d490cd53d1d96bb1",
   "lastOpenFiles": [
+    "docs/4_test_experiment_2.md",
     "docs/3_test_experiment_1.md",
     "docs/2_general.md",
     "docs/1_index.md",
-    "docs/4_test_experiment_2.md",
     "site/stylesheets/extra.css",
     "site/stylesheets",
     "docs/stylesheets/extra.css",
