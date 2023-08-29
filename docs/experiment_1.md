@@ -1,20 +1,8 @@
 ---
-title: Dermination of $g$
+title: Dermination of $g_{res}$
 ---
 
-
-## Materials-Equipments
-
-## Units, Terms and Definitions
-
-
-
-
-
-
 ## Procedure
-
-## Links to resources and suppliers
 
 ## Data Analysis
 
@@ -22,5 +10,4 @@ title: Dermination of $g$
 import pandas
 ```
 
-## Literature references
 
