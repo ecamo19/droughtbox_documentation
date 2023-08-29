@@ -26,7 +26,7 @@ $VDP$ :
    </td>
   </tr>
   <tr>
-   <td> $g$
+   <td> $g_min$
    </td>
    <td>test
    </td>
