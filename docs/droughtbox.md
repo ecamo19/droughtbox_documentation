@@ -7,6 +7,8 @@ title: HIE Droughtbox user guide
 
 ## Units, Terms and Definitions
 
+
+
 ## Procedure
 
 ## Links to resources and suppliers
