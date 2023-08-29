@@ -8,7 +8,11 @@ theme:
   # pip install mkdocs-material
   palette:
     primary: custom
-  
+
+    extra_css:
+      - stylesheets/extra.css
+
+
   features:
     - navigation.tabs
     - navigation.sections
@@ -20,8 +24,6 @@ theme:
     - content.code.annotation
     - content.code.copy 
   
-  extra_css:
-    - stylesheets/extra.css
 
   #palette:
   #  - scheme: default
