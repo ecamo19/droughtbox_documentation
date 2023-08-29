@@ -6,7 +6,8 @@ theme:
   #favicon: images/favicon3.png
 
   # pip install mkdocs-material
-  name: material
+  palette:
+    primary: custom
   
   features:
     - navigation.tabs
