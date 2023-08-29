@@ -7,6 +7,9 @@ title: HIE Droughtbox user guide
 
 ## Units, Terms and Definitions
 
+$g_{res}$ :
+$T_p$ :
+$VDP$ :
 
 
 ## Procedure
