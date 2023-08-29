@@ -6,13 +6,8 @@ theme:
   #favicon: images/favicon3.png
 
   # pip install mkdocs-material
-  palette:
-    primary: custom
-
-    extra_css:
-      - stylesheets/extra.css
-
-
+  name: material
+  
   features:
     - navigation.tabs
     - navigation.sections
@@ -24,20 +19,19 @@ theme:
     - content.code.annotation
     - content.code.copy 
   
-
-  #palette:
-  #  - scheme: default
-  #    primary: #990234
-  #    accent: blue
-  #    toggle:
-  #      icon: material/toggle-switch-off-outline 
-  #      name: Switch to dark mode
-  #  - scheme: slate 
-  #    toggle:
-  #      icon: material/toggle-switch
-  #      name: Switch to light mode    
-  #    primary: teal
-  #    accent: lime
+  palette:
+    - scheme: default
+      primary: green
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
 
   language: en
 
