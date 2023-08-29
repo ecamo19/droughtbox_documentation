@@ -1,5 +1,5 @@
 ---
-title: Dermination of $g_{res}$
+title: Dermination of 
 ---
 
 ## Procedure
