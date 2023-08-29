@@ -18,33 +18,33 @@ title: General
   <tr>
    <td><em>g<sub>min</sub></em>
    </td>
-   <td>
+   <td>Leaf minimum conductance
    </td>
-   <td>
+   <td>mmol.m<sup>−2</sup> s<sup>−1</sup>
    </td>
   </tr>
   <tr>
    <td><em>g<sub>bark</sub></em>
    </td>
-   <td>
+   <td>Residual water-loss from small branches.
    </td>
-   <td>
+   <td>mmol.m<sup>−2</sup> s<sup>−1</sup>
    </td>
   </tr>
   <tr>
    <td><em>g<sub>res</sub></em>
    </td>
-   <td>Residual water-loss from small branches ()
+   <td>Residual water-loss from small branches and leaves. Is the sum between <em>g<sub>min</sub></em> and <em>g<sub>bark </sub></em>
    </td>
-   <td>H<sub>2</sub>O m<sup>−2</sup> s<sup>−1</sup>
+   <td>mmol.m<sup>−2</sup> s<sup>−1</sup>
    </td>
   </tr>
   <tr>
    <td><em>VPD</em>
    </td>
-   <td>
+   <td>Vapor pressure deficit
    </td>
-   <td>
+   <td>kPa
    </td>
   </tr>
   <tr>
@@ -52,10 +52,11 @@ title: General
    </td>
    <td>Phase transition temperature (Tp), beyond which g<sub>res</sub> significantly increases.
    </td>
-   <td>
+   <td>Degree Celsius
    </td>
   </tr>
 </table>
+
 
 ## Links to resources and suppliers
 
