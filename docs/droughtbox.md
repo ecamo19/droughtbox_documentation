@@ -8,6 +8,7 @@ title: HIE Droughtbox user guide
 ## Units, Terms and Definitions
 
 $g_{res}$ :
+$g_{min}$ 
 $T_p$ :
 $VDP$ :
 
