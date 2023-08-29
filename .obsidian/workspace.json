@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/droughtbox.md",
+                "file": "docs/experiment_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/droughtbox.md",
+                "file": "docs/experiment_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/droughtbox.md",
+                "file": "docs/experiment_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/droughtbox.md"
+                "file": "docs/experiment_1.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "d490cd53d1d96bb1",
   "lastOpenFiles": [
+    "docs/general.md",
     "docs/index.md",
-    "docs/droughtbox.md",
-    "docs/experiment 1.md",
+    "docs/experiment_1.md",
     "site/stylesheets/extra.css",
     "site/stylesheets",
     "docs/stylesheets/extra.css",
