@@ -20,7 +20,7 @@ theme:
     - content.code.copy 
   
   extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css
 
   #palette:
   #  - scheme: default

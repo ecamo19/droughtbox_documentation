@@ -148,6 +148,8 @@
   },
   "active": "4c341b0b3496b2a7",
   "lastOpenFiles": [
+    "site/stylesheets/extra.css",
+    "site/stylesheets",
     "docs/stylesheets/extra.css",
     "docs/stylesheets",
     "docs/droughtbox.md",
@@ -162,8 +164,6 @@
     "public/index.xml",
     "public/sitemap.xml",
     "public/tags/index.html",
-    "public/tags",
-    "public/index.html",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
     "node_modules/typescript/SECURITY.md",
