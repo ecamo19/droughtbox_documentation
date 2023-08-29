@@ -21,7 +21,7 @@ theme:
   
   palette:
     - scheme: default
-      primary: green
+      primary: #990234
       accent: blue
       toggle:
         icon: material/toggle-switch-off-outline 
