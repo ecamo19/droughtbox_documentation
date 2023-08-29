@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d490cd53d1d96bb1",
+  "active": "4c341b0b3496b2a7",
   "lastOpenFiles": [
+    "docs/stylesheets/extra.css",
+    "docs/stylesheets",
     "docs/droughtbox.md",
     "docs/index.md",
     "content/index.md",
@@ -162,7 +164,6 @@
     "public/tags/index.html",
     "public/tags",
     "public/index.html",
-    "public/prescript.js",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
     "node_modules/typescript/SECURITY.md",
@@ -185,7 +186,6 @@
     "node_modules/rimraf/README.md",
     "node_modules/parse5/README.md",
     "node_modules/cssstyle/README.md",
-    "node_modules/mj-context-menu/README.md",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/cli-spinner/img/spinner.gif"
   ]
