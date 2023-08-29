@@ -1,5 +1,5 @@
 ---
-title: Tempature dependence (T_p) of 
+title: Phase transition (T_p) of $g_{res}$ 
 ---
 
 ## Procedure
