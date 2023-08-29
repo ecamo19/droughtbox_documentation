@@ -2,6 +2,7 @@ site_name: Droughtbox
 ##site_url: https://ecamo19.github.io/gsoc2022_web/
 
 theme:
+  name: costum
   palette:
     primary: custom
 
@@ -11,7 +12,7 @@ theme:
   #favicon: images/favicon3.png
 
   # pip install mkdocs-material
-  #name: material
+    #name: material
 
 
   #features:
