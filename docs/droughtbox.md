@@ -7,13 +7,7 @@ title: HIE Droughtbox user guide
 
 ## Units, Terms and Definitions
 
-$g_{res}$ :
 
-$g_{min}$ 
-
-$T_p$ :
-
-$VDP$ :
 
 
 <table>
@@ -26,7 +20,7 @@ $VDP$ :
    </td>
   </tr>
   <tr>
-   <td> $g_min$
+   <td><strong><em>test</em></strong>
    </td>
    <td>test
    </td>
