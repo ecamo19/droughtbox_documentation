@@ -11,8 +11,12 @@
             "id": "d490cd53d1d96bb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/index.md"
+              }
             }
           }
         ]
@@ -141,6 +148,7 @@
   },
   "active": "d490cd53d1d96bb1",
   "lastOpenFiles": [
+    "docs/droughtbox.md",
     "content/index.md",
     "public/tags/LITERATURE.html",
     "public/tags/PROCEDURE.html",
@@ -178,7 +186,6 @@
     "node_modules/cssstyle/README.md",
     "node_modules/mj-context-menu/README.md",
     "node_modules/glob/README.md",
-    "node_modules/entities/readme.md",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/cli-spinner/img/spinner.gif"
   ]
