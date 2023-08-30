@@ -60,11 +60,6 @@ title: General
 
 ## Links to resources and suppliers
 
-## Data Analysis
-
-```python
-import pandas
-```
 
 ## Literature references
 
