@@ -1,5 +1,5 @@
 ---
-title: Phase transition (Tp) 
+title: Phase transition  
 ---
 
 ## Procedure
