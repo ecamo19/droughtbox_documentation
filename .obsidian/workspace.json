@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/2_test_experiment_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/2_test_experiment_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/2_test_experiment_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/2_test_experiment_1.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "d490cd53d1d96bb1",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/2_test_experiment_1.md",
     "docs/media/droughtbox.jpg",
     "docs/media/droughtbox.JPG",
     "site/assets/javascripts/glightbox.min.js",
@@ -164,15 +166,12 @@
     "site/assets/images/social/3_test_experiment_2.png",
     "site/media/droughtbox.jpg",
     "site/assets/images/social/index.png",
-    "docs/2_test_experiment_1.md",
     "docs/3_test_experiment_2.md",
-    "docs/index.md",
     "site/assets/images/social/2_test_experiment_1.png",
     "site/assets/images/social/1_index.png",
     "docs/2_general.md",
     "site/assets/images/social/4_test_experiment_2.png",
     "site/assets/images/social/3_test_experiment_1.png",
-    "site/assets/images/social/2_general.png",
     "content/index.md",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",

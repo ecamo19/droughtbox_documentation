@@ -8,7 +8,6 @@ This protocol explains how to measure residual water-loss (g<sub>res</sub>) and 
 ## Background
 
 
-## Materials-Equipments
 
 ## Units, Terms and Definitions
 

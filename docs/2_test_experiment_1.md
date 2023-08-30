@@ -4,6 +4,11 @@ title: Dermination of residual water loss from small branches
 
 ## Procedure
 
+## Materials-Equipments
+
++ Par
+
+
 ### Plant material preparation 
 
 + Collect 1 to 1.5 meters long branches  
@@ -13,7 +18,8 @@ title: Dermination of residual water loss from small branches
 
 ### Before starting the measurements
 
-+ Recut a 40 
++ Recut a 40 cm long branch (weight should not be larger than 500 grams)
++ Seal with paraffine wax the end branch 
 
 
 $$\frac{1}{1}$$
