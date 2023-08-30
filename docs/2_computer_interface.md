@@ -26,7 +26,12 @@ title: Loggernet interface
 
 ![Create a new datafile](media/loggernet_create_data_file.jpg)
 
- + __Open Numeric Display__: Press 
+ + __Open Numeric Display__: Press Num Display
+
+
+
+
+![numeric_display](media/loggernet_numeric_display.jpg)
 
 
 
