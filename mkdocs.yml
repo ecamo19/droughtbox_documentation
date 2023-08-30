@@ -21,7 +21,7 @@ theme:
   
   palette:
     - scheme: default
-      primary: red
+      primary: fire
       accent: blue
       toggle:
         icon: material/toggle-switch-off-outline 
