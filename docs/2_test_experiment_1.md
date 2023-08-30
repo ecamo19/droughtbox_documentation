@@ -2,12 +2,15 @@
 title: Dermination of residual water loss from small branches 
 ---
 
+This protocol describes how tro
+
 ## Procedure
 
 ## Materials-Equipments
 
-+ Par
-
++ Paraffine wax
++ Scale
++ 
 
 ### Plant material preparation 
 
@@ -19,8 +22,12 @@ title: Dermination of residual water loss from small branches
 ### Before starting the measurements
 
 + Recut a 40 cm long branch (weight should not be larger than 500 grams)
-+ Seal with paraffine wax the end branch 
++ Seal the end of the branch with paraffine wax 
++ Measure the fresh weight of each branch
++ 
+### During measurements 
 
++ 
 
 $$\frac{1}{1}$$
 
