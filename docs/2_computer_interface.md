@@ -1,5 +1,5 @@
 ---
-title: Computer interface
+title: Loggernet interface
 ---
 
 + Open LoggerNet v4.1

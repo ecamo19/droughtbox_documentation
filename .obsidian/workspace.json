@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d490cd53d1d96bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/3_test_experiment_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8eed2cd7f160147e",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,9 +148,9 @@
   },
   "active": "8eed2cd7f160147e",
   "lastOpenFiles": [
-    "docs/3_test_experiment_2.md",
     "docs/3_test_experiment_1.md",
     "docs/2_computer_interface.md",
+    "docs/3_test_experiment_2.md",
     "docs/index.md",
     "docs/media/droughtbox.jpg",
     "docs/media/droughtbox.JPG",
