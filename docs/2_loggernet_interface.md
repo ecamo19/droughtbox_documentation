@@ -14,7 +14,7 @@ title: Loggernet interface
 
 	![Connect to Droughtbox](media/loggernet_connect.jpg)
 
-## Create data file
+## Create a data file
 
 + __Create data file__:  Go back to the main interface and press the setup bottom  
  
@@ -31,7 +31,7 @@ title: Loggernet interface
 ![Create a new datafile](media/loggernet_create_data_file.jpg)
 
 
-## Open numeric display
+## Open the numeric display
 
  + __Open Numeric Display__: Press Num Display bottom
  
@@ -217,4 +217,4 @@ title: Loggernet interface
   </tr>
 </table>
 
-## Setting up graphs
+## Setting up the graphs
