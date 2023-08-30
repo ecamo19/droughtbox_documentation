@@ -1,4 +1,4 @@
-site_name: Droughtbox
+site_name: Droughtbox user guide
 ##site_url: https://ecamo19.github.io/gsoc2022_web/
 
 theme:
@@ -21,7 +21,7 @@ theme:
   
   palette:
     - scheme: default
-      primary: green
+      primary: red
       accent: blue
       toggle:
         icon: material/toggle-switch-off-outline 
@@ -38,6 +38,7 @@ theme:
 # pip install pillow cairosvg
 plugins:
     - social
+    - glightbox
 
 extra:
     social:
@@ -45,12 +46,10 @@ extra:
         link: https://github.com/ecamo19
       - icon: fontawesome/brands/twitter
         link: https://twitter.com/ecamo19
-      ##- icon: fontawesome/brands/linkedin
-        ##link: https://www.linkedin.com/in/willettjames/
-  
-  
+   
 markdown_extensions:
   - attr_list
+  - md_in_html
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -71,7 +70,5 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  
+ 
