@@ -25,6 +25,8 @@ title: Loggernet interface
 
 	If you don't change the file path your file will be stored at `C:\Campbellsci\LoggerNet` 
 
+	If 
+
 
 ![Create a new datafile](media/loggernet_create_data_file.jpg)
 
