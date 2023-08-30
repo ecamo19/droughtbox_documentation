@@ -148,10 +148,16 @@
   },
   "active": "8eed2cd7f160147e",
   "lastOpenFiles": [
-    "docs/3_test_experiment_1.md",
-    "docs/2_computer_interface.md",
-    "docs/3_test_experiment_2.md",
     "docs/index.md",
+    "docs/2_computer_interface.md",
+    "docs/media/loggernet_show_values.jpg",
+    "docs/media/loggernet_initial_connect.jpg",
+    "docs/media/loggernet_connect.jpg",
+    "docs/loggernet_show_values.jpg",
+    "docs/loggernet_connect.jpg",
+    "docs/loggernet_initial_connect.jpg",
+    "docs/3_test_experiment_1.md",
+    "docs/3_test_experiment_2.md",
     "docs/media/droughtbox.jpg",
     "docs/media/droughtbox.JPG",
     "site/assets/javascripts/glightbox.min.js",
@@ -166,13 +172,7 @@
     "site/404.html",
     "site/assets/images/favicon.png",
     "site/assets/images/social/3_test_experiment_2.png",
-    "site/media/droughtbox.jpg",
-    "site/assets/images/social/index.png",
-    "site/assets/images/social/2_test_experiment_1.png",
-    "site/assets/images/social/1_index.png",
     "docs/2_general.md",
-    "site/assets/images/social/4_test_experiment_2.png",
-    "site/assets/images/social/3_test_experiment_1.png",
     "content/index.md",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
@@ -192,7 +192,6 @@
     "node_modules/speech-rule-engine/lib/README.md",
     "node_modules/resolve/SECURITY.md",
     "node_modules/flexsearch/README.md",
-    "node_modules/flexsearch/CHANGELOG.md",
-    "node_modules/rimraf/README.md"
+    "node_modules/flexsearch/CHANGELOG.md"
   ]
 }
