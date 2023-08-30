@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1_index.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1_index.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/1_index.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1_index.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -146,31 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d490cd53d1d96bb1",
+  "active": "4c341b0b3496b2a7",
   "lastOpenFiles": [
-    "docs/3_test_experiment_2.md",
-    "docs/2_test_experiment_1.md",
-    "docs/1_index.md",
-    "docs/2_general.md",
-    "site/4_test_experiment_2/index.html",
-    "site/4_test_experiment_2",
-    "site/3_test_experiment_1/index.html",
-    "site/3_test_experiment_1",
-    "site/2_general/index.html",
-    "site/2_general",
-    "site/1_index/index.html",
-    "site/1_index",
+    "site/3_test_experiment_2/index.html",
+    "site/3_test_experiment_2",
+    "site/2_test_experiment_1/index.html",
+    "site/2_test_experiment_1",
+    "site/index.html",
     "site/sitemap.xml.gz",
     "site/sitemap.xml",
-    "site/assets/images/social/4_test_experiment_2.png",
+    "site/404.html",
+    "site/assets/images/social/index.png",
+    "site/1_index/index.html",
+    "site/1_index",
+    "site/assets/stylesheets/palette.85d0ee34.min.css.map",
+    "site/assets/images/favicon.png",
+    "site/assets/images/social/3_test_experiment_2.png",
     "site/media/droughtbox.jpg",
+    "site/assets/images/social/2_test_experiment_1.png",
+    "site/assets/images/social/1_index.png",
+    "docs/3_test_experiment_2.md",
+    "docs/2_test_experiment_1.md",
+    "docs/index.md",
+    "docs/2_general.md",
+    "site/assets/images/social/4_test_experiment_2.png",
     "site/assets/images/social/3_test_experiment_1.png",
     "site/assets/images/social/2_general.png",
-    "site/assets/images/social/1_index.png",
     "docs/media/droughtbox.jpg",
     "content/index.md",
-    "public/static/og-image.png",
-    "public/static/icon.png",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
     "node_modules/typescript/SECURITY.md",
@@ -190,8 +193,6 @@
     "node_modules/resolve/SECURITY.md",
     "node_modules/flexsearch/README.md",
     "node_modules/flexsearch/CHANGELOG.md",
-    "node_modules/rimraf/README.md",
-    "node_modules/psl/browserstack-logo.svg",
-    "node_modules/cli-spinner/img/spinner.gif"
+    "node_modules/rimraf/README.md"
   ]
 }
