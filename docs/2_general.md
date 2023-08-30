@@ -68,3 +68,6 @@ import pandas
 
 ## Literature references
 
+[Duursma, R. A., Blackman, C. J., Lopéz, R., Martin‐StPaul, N. K., Cochard, H., & Medlyn, B. E. (2019). On the minimum leaf conductance: its role in models of plant water use, and ecological and environmental controls. _New Phytologist_, _221_(2), 693-705.](https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.15395)
+
++ 
