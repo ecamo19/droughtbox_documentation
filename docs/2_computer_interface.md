@@ -15,7 +15,8 @@ title: Loggernet interface
 	![Connect to Droughtbox](media/loggernet_connect.jpg)
 
 
-+ __Create data file__
++ __Create data file__: Go to the setup page 
+
 
 
 ## List of abbreviations 
