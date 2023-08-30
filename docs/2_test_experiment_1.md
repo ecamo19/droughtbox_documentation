@@ -6,7 +6,7 @@ title: Dermination of residual water loss from small branches
 
 ### Plant material
 
-+ 
++ Rehydrate plants overnight by immersing their petioles in water
 
 
 ## Data Analysis
