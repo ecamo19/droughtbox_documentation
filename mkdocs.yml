@@ -21,7 +21,7 @@ theme:
   
   palette:
     - scheme: default
-      primary: fire
+      primary: red
       accent: blue
       toggle:
         icon: material/toggle-switch-off-outline 
@@ -46,10 +46,7 @@ extra:
         link: https://github.com/ecamo19
       - icon: fontawesome/brands/twitter
         link: https://twitter.com/ecamo19
-      ##- icon: fontawesome/brands/linkedin
-        ##link: https://www.linkedin.com/in/willettjames/
-  
-  
+   
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -73,7 +70,5 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  
+ 
