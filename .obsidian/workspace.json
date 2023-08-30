@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/3_test_experiment_1.md",
+                "file": "docs/1_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3_test_experiment_1.md",
+                "file": "docs/1_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/3_test_experiment_1.md",
+                "file": "docs/1_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/3_test_experiment_1.md"
+                "file": "docs/1_index.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "d490cd53d1d96bb1",
   "lastOpenFiles": [
-    "docs/4_test_experiment_2.md",
     "docs/3_test_experiment_1.md",
+    "docs/media/droughtbox.jpg",
+    "docs/media",
+    "docs/4_test_experiment_2.md",
     "docs/2_general.md",
     "docs/1_index.md",
     "site/stylesheets/extra.css",
@@ -164,7 +166,6 @@
     "public/static/contentIndex.json",
     "public/static",
     "public/index.xml",
-    "public/sitemap.xml",
     "node_modules/mathjax-full/README.md",
     "node_modules/mathjax-full/CONTRIBUTING.md",
     "node_modules/typescript/SECURITY.md",
@@ -185,7 +186,6 @@
     "node_modules/flexsearch/README.md",
     "node_modules/flexsearch/CHANGELOG.md",
     "node_modules/rimraf/README.md",
-    "node_modules/parse5/README.md",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/cli-spinner/img/spinner.gif"
   ]
