@@ -10,7 +10,8 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 
 + Paraffine wax
 + Scale
-+ 
++ Scanner
++ ImageJ
 
 ### Plant material preparation 
 
@@ -25,7 +26,7 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Seal the end of the branch with paraffine wax 
 + Measure the fresh weight of each branch
 + Before placing the branches inside the Box, set the temperature and relative humidity values and wait until these stabilize
-### During measurements 
+### During the measurements 
 
 + 
 
