@@ -36,7 +36,7 @@ title: Loggernet interface
 
 
 
-
++ Window should appear 
 ![numeric_display_window](media/loggernet_numeric_display.jpg)
 
 
