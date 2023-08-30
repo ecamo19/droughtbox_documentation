@@ -7,6 +7,7 @@ title: Loggernet interface
 + Open LoggerNet v4.1
 
 
+
 + __Initial connect:__ Go to Main -->  and click on Connect
 
 	 ![Initial connect](media/loggernet_initial_connect.jpg)
