@@ -19,6 +19,9 @@ title: Loggernet interface
  
 ![page_setup](media/loggernet_setup_datafile.jpg)
 
+
+## Create data file
+
 + __Create a new file__: Select Droughtbox at COM32  --> Go to the Data File tab --> Select droughtbox --> change the name of the file following the format `YYYY_MM_DATE_OWNER.dat` for example `2023_08_10_erick.dat`
 
 	If you don't change the file path your file will be store at `C:\Campbellsci\LoggerNet` 
@@ -26,6 +29,8 @@ title: Loggernet interface
 
 ![Create a new datafile](media/loggernet_create_data_file.jpg)
 
+
+## Open numeric display
  + __Open Numeric Display__: Press Num Display bottom
 ![open_numeric_display](media/loggernet_open_numerical_display.jpg)
 
