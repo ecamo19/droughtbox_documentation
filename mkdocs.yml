@@ -38,6 +38,7 @@ theme:
 # pip install pillow cairosvg
 plugins:
     - social
+    - glightbox
 
 extra:
     social:
@@ -51,7 +52,7 @@ extra:
   
 markdown_extensions:
   - attr_list
-  -
+  - md_in_html
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true

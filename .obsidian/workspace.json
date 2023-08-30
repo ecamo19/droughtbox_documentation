@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_test_experiment_1.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2_test_experiment_1.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2_test_experiment_1.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2_test_experiment_1.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -148,9 +148,8 @@
   },
   "active": "d490cd53d1d96bb1",
   "lastOpenFiles": [
-    "docs/3_test_experiment_2.md",
-    "docs/2_test_experiment_1.md",
-    "docs/index.md",
+    "site/assets/javascripts/glightbox.min.js",
+    "site/assets/stylesheets/glightbox.min.css",
     "site/3_test_experiment_2/index.html",
     "site/3_test_experiment_2",
     "site/2_test_experiment_1/index.html",
@@ -159,12 +158,14 @@
     "site/sitemap.xml.gz",
     "site/sitemap.xml",
     "site/404.html",
-    "site/assets/images/social/index.png",
-    "site/1_index/index.html",
-    "site/1_index",
+    "site/assets/stylesheets/palette.85d0ee34.min.css.map",
     "site/assets/images/favicon.png",
     "site/assets/images/social/3_test_experiment_2.png",
     "site/media/droughtbox.jpg",
+    "site/assets/images/social/index.png",
+    "docs/2_test_experiment_1.md",
+    "docs/3_test_experiment_2.md",
+    "docs/index.md",
     "site/assets/images/social/2_test_experiment_1.png",
     "site/assets/images/social/1_index.png",
     "docs/2_general.md",

@@ -3,7 +3,7 @@
 
 This protocol explains how to measure residual water-loss (g<sub>res</sub>) and its phase transition (T<sub>p</sub>) using the [DroughtBox](https://onlinelibrary.wiley.com/doi/full/10.1111/pce.13750) located at the Hawkesbury Institute for the Environment. This box was build by Craig Barton. 
 
-![test](site/media/droughtbox.JPG)
+![test](media/droughtbox.JPG)
 
 ## Background
 
