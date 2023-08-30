@@ -55,9 +55,41 @@ This protocol explains how to measure residual water-loss (g<sub>res</sub>) and 
   <tr>
    <td><em>T<sub>p</sub></em>
    </td>
-   <td>Phase transition temperature (Tp) beyond which g<sub>res</sub> significantly increases.
+   <td>Phase transition temperature (Tp), beyond which g<sub>res</sub> significantly increases.
    </td>
    <td>Degree Celsius
+   </td>
+  </tr>
+  <tr>
+   <td><em>w</em>
+   </td>
+   <td>Branch weight
+   </td>
+   <td>grams
+   </td>
+  </tr>
+  <tr>
+   <td><em>BA</em>
+   </td>
+   <td>Surface area of the stem determined from measurements of stem length and basal diameter and assuming the shape of a cone.
+   </td>
+   <td>m<sup>2</sup>
+   </td>
+  </tr>
+  <tr>
+   <td><em>LA</em>
+   </td>
+   <td>Leaf area
+   </td>
+   <td>m<sup>2</sup>
+   </td>
+  </tr>
+  <tr>
+   <td><em>E</em>
+   </td>
+   <td>Transpiration
+   </td>
+   <td>mmol.m<sup>−2</sup> s<sup>−1</sup>
    </td>
   </tr>
 </table>
