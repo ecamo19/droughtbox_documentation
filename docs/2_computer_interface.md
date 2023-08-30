@@ -25,4 +25,9 @@ title: Loggernet interface
 
 
 ![Create a new datafile](media/loggernet_create_data_file.jpg)
-## List of abbreviations 
+
+ + __Open Numeric Display__: Press 
+
+
+
+### List of abbreviations 
