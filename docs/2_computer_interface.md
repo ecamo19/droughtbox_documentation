@@ -46,3 +46,175 @@ title: Loggernet interface
 ### List of abbreviations 
 
 
+<table>
+  <tr>
+   <td><strong>Term</strong>
+   </td>
+   <td><strong>Definition</strong>
+   </td>
+   <td><strong>Units</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>BattV
+   </td>
+   <td>Voltage Battery Reading
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>PTempC</em>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>AirTC</em>
+   </td>
+   <td>Measured air temperature inside the box 
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>RH</em>
+   </td>
+   <td>Measured relative humidity inside the box
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>TC</em>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>VPD</em>
+   </td>
+   <td>Measured vapor pressure deficit inside the box
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>AbsH</em>
+   </td>
+   <td>Measured absolute humidity inside the box
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>Strain(1)</em>
+   </td>
+   <td>Weight measured on strain 1
+   </td>
+   <td>grams
+   </td>
+  </tr>
+  <tr>
+   <td><em>Strain(2)</em>
+   </td>
+   <td>Weight measured on strain 2
+   </td>
+   <td>grams
+   </td>
+  </tr>
+  <tr>
+   <td><em>Strain(3)</em>
+   </td>
+   <td>Weight measured on strain 3
+   </td>
+   <td>grams
+   </td>
+  </tr>
+  <tr>
+   <td><em>Strain(4)</em>
+   </td>
+   <td>Weight measured on strain 4
+   </td>
+   <td>grams
+   </td>
+  </tr>
+  <tr>
+   <td><em>TarePeriod</em>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>err</em>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>TareCount</em>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>TareNow</em>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>autozero</em>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>SetPointRH</em>
+   </td>
+   <td>Desired Relative Humiity
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>SetPointT</em>
+   </td>
+   <td>Desired Temperature
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>SetPointVPD</em>
+   </td>
+   <td>Desired vapor pressure deficit
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>SetPointAbsH</em>
+   </td>
+   <td>Desired absolute humidity
+   </td>
+   <td>grams
+   </td>
+  </tr>
+</table>
+
+## Setting up graphs
