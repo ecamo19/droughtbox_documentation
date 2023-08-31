@@ -28,7 +28,7 @@ title: Loggernet interface
 
 	To obtain the Network Map as shown in the picture below click on the `View` bottom and select `Standard` 
 
-!``
+!`Explore what the collect buttom does`
 
 
 ![Create a new datafile](media/loggernet_create_data_file.jpg)
