@@ -227,4 +227,4 @@ title: Loggernet interface
 
 	[Insert image]
 
-+ C
++ Click over the Public tab o  
