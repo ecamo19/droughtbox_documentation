@@ -219,4 +219,6 @@ title: Loggernet interface
 
 ## Setting up the graphs
 
-G
++ Go to Graphs tab 
+
+	[insert image]
