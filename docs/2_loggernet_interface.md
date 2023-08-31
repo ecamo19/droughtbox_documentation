@@ -223,4 +223,8 @@ title: Loggernet interface
 
 	[insert image]
 
-+ Press  the rightClick on a open cell 
++ Press  the right click over a open cell then select Add..
+
+	[Insert image]
+
++ C
