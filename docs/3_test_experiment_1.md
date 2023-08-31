@@ -34,8 +34,10 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 
 ## Data Analysis
 
-$$E$$
+$$E = \frac{slope(n_w;t)}{LA\ +\ BA }$$
 
+
+$$$$
 ### Code
 ```python
 import pandas
