@@ -230,3 +230,7 @@ title: Loggernet interface
 + Click over the Public tab. A list of variables should appear at the right hand side. 
 
 	[Insert Image]
+
++ Select one variable and then click Paste
+
+	[Insert image]
