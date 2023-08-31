@@ -219,11 +219,11 @@ title: Loggernet interface
 
 ## Setting up the graphs
 
-+ Go to Graphs tab --> Select a graph (Graph 1, Graph 2, Graph 3)
++ Go to the Graphs tab --> Select a graph (Graph 1, Graph 2 or Graph 3)
 
 	[insert image]
 
-+ Press  the right click over a open cell then select Add..
++ Press  the right click ove r a open cell then select Add..
 
 	[Insert image]
 
