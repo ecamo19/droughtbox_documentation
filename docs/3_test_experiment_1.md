@@ -29,12 +29,14 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Check there is water in the 
 ### During the measurements 
 
-$$\frac{1}{1}$$
 
 
 
 ## Data Analysis
 
+$$E$$
+
+### Code
 ```python
 import pandas
 ```
