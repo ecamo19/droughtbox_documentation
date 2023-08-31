@@ -222,3 +222,5 @@ title: Loggernet interface
 + Go to Graphs tab --> Select a graph (Graph 1, Graph 2, Graph 3)
 
 	[insert image]
+
++ Press  the rightClick on a open cell 
