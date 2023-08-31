@@ -227,6 +227,6 @@ title: Loggernet interface
 
 	[Insert image]
 
-+ Click over the Public tab. A list of  
++ Click over the Public tab. A list of variables should appear at the right hand side. 
 
 	[Insert Image]
