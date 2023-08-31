@@ -223,7 +223,7 @@ title: Loggernet interface
 
 	[insert image]
 
-+ Press  the right click ove r a open cell then select Add..
++ Press the right click over a empty cell located in the Selected Fields Table  then select Add..
 
 	[Insert image]
 
