@@ -219,6 +219,6 @@ title: Loggernet interface
 
 ## Setting up the graphs
 
-+ Go to Graphs tab 
++ Go to Graphs tab --> Select a graph (Graph 1, Graph 2, Graph 3)
 
 	[insert image]
