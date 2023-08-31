@@ -218,3 +218,5 @@ title: Loggernet interface
 </table>
 
 ## Setting up the graphs
+
+G
