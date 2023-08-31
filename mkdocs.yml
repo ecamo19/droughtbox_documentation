@@ -46,6 +46,17 @@ extra:
         link: https://github.com/ecamo19
       - icon: fontawesome/brands/twitter
         link: https://twitter.com/ecamo19
+
+
+# For adding math formulas to mkdocs
+extra_javascript:
+  - javascripts/katex.js 
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+
    
 markdown_extensions:
   - attr_list

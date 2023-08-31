@@ -29,23 +29,24 @@ title: Loggernet interface
 
 	To obtain the Network Map as shown in the picture below click on the `View` bottom and select `Standard` 
 
+!`Explore what the collect buttom does`
+
 
 ![Create a new datafile](media/loggernet_create_data_file.jpg)
 
 
 ## Open the numeric display
 
- + __Open Numeric Display__: Press Num Display bottom
+ + __Open Num Display__: Press Num Display bottom
  
 ![open_numeric_display](media/loggernet_open_numerical_display.jpg)
 
 
-+ Window should appear 
++ This window should appear 
 ![numeric_display_window](media/loggernet_numeric_display.jpg)
 
 
-
-### List of abbreviations 
+### List of abbreviations in the numerical display 
 
 
 <table>
@@ -220,3 +221,19 @@ title: Loggernet interface
 </table>
 
 ## Setting up the graphs
+
++ Go to the Graphs tab --> Select a graph (Graph 1, Graph 2 or Graph 3)
+
+	[insert image]
+
++ Press the right click over a empty cell located in the Selected Fields  then select Add..
+
+	[Insert image]
+
++ Click over the Public tab. A list of variables should appear at the right hand side. 
+
+	[Insert Image]
+
++ Select one variable and then click Paste
+
+	[Insert image]

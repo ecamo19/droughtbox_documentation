@@ -29,13 +29,16 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Check there is water in the 
 ### During the measurements 
 
-+ 
 
-$$\frac{1}{1}$$
 
 
 ## Data Analysis
 
+$$E = \frac{slope(n_w;t)}{LA\ +\ BA }$$
+
+
+$$g_{res}= \frac{E}{VPD}\ \times 101.6$$
+### Code
 ```python
 import pandas
 ```
