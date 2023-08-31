@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_loggernet_interface.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2_loggernet_interface.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2_loggernet_interface.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2_loggernet_interface.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -147,5 +147,7 @@
     }
   },
   "active": "c8c38bcb63a584f1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/2_loggernet_interface.md"
+  ]
 }
