@@ -227,4 +227,6 @@ title: Loggernet interface
 
 	[Insert image]
 
-+ Click over the Public tab o  
++ Click over the Public tab. A list of  
+
+	[Insert Image]
