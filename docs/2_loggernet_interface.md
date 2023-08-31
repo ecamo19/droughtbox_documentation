@@ -34,17 +34,16 @@ title: Loggernet interface
 
 ## Open the numeric display
 
- + __Open Numeric Display__: Press Num Display bottom
+ + __Open Num Display__: Press Num Display bottom
  
 ![open_numeric_display](media/loggernet_open_numerical_display.jpg)
 
 
-+ Window should appear 
++ This window should appear 
 ![numeric_display_window](media/loggernet_numeric_display.jpg)
 
 
-
-### List of abbreviations 
+### List of abbreviations in the  
 
 
 <table>
