@@ -37,7 +37,7 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 $$E = \frac{slope(n_w;t)}{LA\ +\ BA }$$
 
 
-$$$$
+$$g_{res}= \frac{E}{VPD}\ x 101.6$$
 ### Code
 ```python
 import pandas
