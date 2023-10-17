@@ -27,7 +27,7 @@ title: Loggernet interface
 
  + If you don't change the file path, your data file will be stored at `C:\Campbellsci\LoggerNet` 
 
-  + To obtain the Network Map as shown in the picture below click on the `View` bottom and select `Standard` 
+  + In case that Network Map (located at the left hand of the image below) is not as shown in the picture below click on the `View` bottom and select `Standard` 
 
 
 
