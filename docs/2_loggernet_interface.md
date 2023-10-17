@@ -23,8 +23,10 @@ title: Loggernet interface
 + __Create a new file__: Select Droughtbox at COM32  --> Go to the Data Files tab --> Select droughtbox --> change the name of the file following the format `YYYY_MM_DATE_OWNER.dat` for example `2023_08_10_erick.dat`
 
 + Make sure that the `File Output Option` is set up as `Create unique file name`  
++ To save the data into the data file press the 
 
 + If you don't change the file path, your data file will be stored at `C:\Campbellsci\LoggerNet` 
+ 
 
 + In case that Network Map (located at the left hand of the image below) is not as shown in the picture, click on the `View` bottom and select `Standard` to change it.
 
