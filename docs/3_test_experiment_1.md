@@ -4,7 +4,7 @@ title: Dermination of residual water loss from small branches
 
 This protocol describes how to measure g<sub>res</sub> under __constant temperature and relative humidity__ 
 
-## Procedure
+# Procedure
 
 ## Materials-Equipments
 
@@ -13,14 +13,14 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Scanner
 + ImageJ
 
-### Plant material preparation 
+## Plant material preparation 
 
 + Collect 1 to 1.5 meters long branches  
 + Cut the end of each branch underwater
 + Rehydrate plants overnight by immersing them in water
 + Cover the branches with black plastic bags and store them dark conditions
 
-### Before starting the measurements
+## Before starting the measurements
 
 + Recut a 40 cm long branch (weight should not be larger than 500 grams)
 + Measure the fresh weight of each branch
@@ -31,7 +31,7 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 	+ Set the temperature and relative humidity values and wait until these stabilize
 	+ Change the `TareNow` flag (located in the Num Display window) from `false` to `true` 
 	
-### During the measurements 
+## During the measurements 
 
 
 
@@ -42,7 +42,7 @@ $$E = \frac{slope(n_w;t)}{LA\ +\ BA }$$
 
 
 $$g_{res}= \frac{E}{VPD}\ \times 101.6$$
-### Code
+## Code
 ```python
 import pandas
 ```
