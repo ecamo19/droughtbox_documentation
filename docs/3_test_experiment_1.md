@@ -25,7 +25,7 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Recut a 40 cm long branch (weight should not be larger than 500 grams)
 + Seal the end of the branch with paraffine wax 
 + Measure the fresh weight of each branch
-+ Measure the diameter of the branch at the cut end 
++ Measure the diameter of the branch at the cut end and at the top of branch 
 + Check there is water in the reservoir located inside the box
 + Before placing the branches inside the Box, 
 	+ Set the temperature and relative humidity values and wait until these stabilize
