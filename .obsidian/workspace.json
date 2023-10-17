@@ -11,12 +11,17 @@
             "id": "c8c38bcb63a584f1",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
+              "type": "empty",
+              "state": {}
+=======
               "type": "markdown",
               "state": {
                 "file": "docs/3_test_experiment_1.md",
                 "mode": "source",
                 "source": false
               }
+>>>>>>> development
             }
           }
         ]
@@ -85,7 +90,14 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "docs/3_test_experiment_1.md",
+=======
+<<<<<<< HEAD
+=======
+                "file": "docs/2_loggernet_interface.md",
+>>>>>>> development
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "docs/3_test_experiment_1.md",
+=======
+<<<<<<< HEAD
+=======
+                "file": "docs/2_loggernet_interface.md",
+>>>>>>> development
+>>>>>>> main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +143,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
+              "state": {}
+=======
               "state": {
                 "file": "docs/3_test_experiment_1.md"
               }
+>>>>>>> development
             }
           }
         ]
@@ -148,10 +171,36 @@
   },
   "active": "c8c38bcb63a584f1",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "docs/2_loggernet_interface.md",
+=======
+<<<<<<< HEAD
+    "mkdocs.yml",
+    "docs/media/loggernet_show_values.jpg",
+    "docs/media/loggernet_setup_datafile.jpg",
+    "docs/media/loggernet_open_numerical_display.jpg",
+    "docs/media/loggernet_numeric_display.jpg",
+    "docs/media/loggernet_initial_connect.jpg",
+    "docs/media/loggernet_create_data_file.jpg",
+    "docs/media/loggernet_connect.jpg",
+    "docs/media/droughtbox.jpg",
+=======
+>>>>>>> main
     "docs/3_test_experiment_1.md",
     "docs/index.md",
+>>>>>>> development
     "docs/javascripts/katex.js",
+<<<<<<< HEAD
     "docs/javascripts"
+=======
+    "docs/media",
+    "docs/javascripts",
+    "docs/index.md",
+    "docs/4_test_experiment_2.md",
+    "docs/3_test_experiment_1.md",
+    "docs/2_loggernet_interface.md",
+    "docs",
+    "README.md"
+>>>>>>> main
   ]
 }
