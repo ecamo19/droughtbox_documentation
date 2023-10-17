@@ -45,7 +45,7 @@ title: Loggernet interface
 
 ![numeric_display_window](media/loggernet_numeric_display.jpg)
 
-+ The main inputs to can be change are:
++ The main inputs that can be change are:
 	+ `SetPointT`
 	+ `SetPointVPD`
 	+ `SetPointAbsH`
