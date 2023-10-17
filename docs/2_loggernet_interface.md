@@ -6,6 +6,7 @@ title: Loggernet interface
 
 + Open LoggerNet v4.1
 
+test
 
 + __Initial connect:__ Go to Main -->  and click on Connect
 
