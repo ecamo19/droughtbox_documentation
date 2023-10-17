@@ -30,8 +30,7 @@ title: Loggernet interface
 + In case that Network Map (located at the left hand of the image below) is not as shown in the picture, click on the `View` bottom and select `Standard` to change 
 
 
-
-![Create a new datafile](media/loggernet_create_data_file.jpg)
+	![Create a new datafile](media/loggernet_create_data_file.jpg)
 
 
 ## Open the numeric display
