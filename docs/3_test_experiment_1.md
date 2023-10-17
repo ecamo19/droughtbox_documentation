@@ -4,8 +4,6 @@ title: Dermination of residual water loss from small branches
 
 This protocol describes how to measure g<sub>res</sub> under __constant temperature and relative humidity__ 
 
-[VPD Calculator](https://cales.arizona.edu/vpdcalc/)
-
 # Procedure
 
 ## Materials-Equipments
@@ -30,7 +28,7 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Seal the end of the branch with parafilm
 + Check there is water in the reservoir located inside the box
 + Before placing the branches inside the Box, 
-	+ Set the temperature and relative humidity values and wait until these stabilize
+	+ Set the temperature and relative humidity values and wait until these stabilize (You can use this [VPD Calculator](https://cales.arizona.edu/vpdcalc/))
 	+ Change the `TareNow` flag (located in the Num Display window) from `false` to `true` 
 	
 ## During the measurements 
