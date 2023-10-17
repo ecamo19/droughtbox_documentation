@@ -46,7 +46,9 @@ title: Loggernet interface
 + The main inputs to can be change are:
 	+ `SetPointT`
 	+ `SetPointVPD`
-	+ `SetPointAbs`
+	+ `SetPointAbsH`
+	+ `SetPointRH`
+
 
 ```
 ### List of abbreviations in the numerical display 
