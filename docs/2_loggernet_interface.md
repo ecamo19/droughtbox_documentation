@@ -26,7 +26,7 @@ title: Loggernet interface
 
 + If you don't change the file path, your data file will be stored at `C:\Campbellsci\LoggerNet` 
 
-+ In case that Network Map (located at the left hand of the image below) is not as shown in the picture, click on the `View` bottom and select `Standard` to change 
++ In case that Network Map (located at the left hand of the image below) is not as shown in the picture, click on the `View` bottom and select `Standard` to change it.
 
 
 	![Create a new datafile](media/loggernet_create_data_file.jpg)
@@ -40,6 +40,7 @@ title: Loggernet interface
 
 
 + This window should appear 
+
 ![numeric_display_window](media/loggernet_numeric_display.jpg)
 
 
