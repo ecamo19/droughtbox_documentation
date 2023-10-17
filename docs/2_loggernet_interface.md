@@ -46,7 +46,7 @@ title: Loggernet interface
 + The main inputs to can be change are:
 	+ `SetPointT`
 	+ `SetPointVPD`
-	+ 
+	+ `SetPointAbs`
 
 ```
 ### List of abbreviations in the numerical display 
@@ -223,7 +223,8 @@ title: Loggernet interface
   </tr>
 </table>
 ```
-```
+
+
 ## Setting up the graphs
 
 + Go to the Graphs tab --> Select a graph (Graph 1, Graph 2 or Graph 3)
