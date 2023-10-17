@@ -6,8 +6,6 @@ title: Loggernet interface
 
 + Open LoggerNet v4.1
 
-test
-
 + __Initial connect:__ Go to Main -->  and click on Connect
 
 	 ![Initial connect](media/loggernet_initial_connect.jpg)
@@ -28,6 +26,7 @@ test
 	If you don't change the file path your data file will be stored at `C:\Campbellsci\LoggerNet` 
 
 	To obtain the Network Map as shown in the picture below click on the `View` bottom and select `Standard` 
+
 
 !`Explore what the collect buttom does`
 
