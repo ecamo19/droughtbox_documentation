@@ -27,7 +27,7 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Measure the fresh weight of each branch
 + Before placing the branches inside the Box, 
 	+ Set the temperature and relative humidity values and wait until these stabilize
-	+  Change the 
+	+  Change the `TareNow` (located in the)
 + Check there is water in the reservoir located inside the box
 ### During the measurements 
 
