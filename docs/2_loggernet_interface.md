@@ -43,7 +43,11 @@ title: Loggernet interface
 
 ![numeric_display_window](media/loggernet_numeric_display.jpg)
 
-+ The main inputs that y
++ The main inputs to can be change are:
+	+ ``
+	+ ``
+
+```
 ### List of abbreviations in the numerical display 
 
 
