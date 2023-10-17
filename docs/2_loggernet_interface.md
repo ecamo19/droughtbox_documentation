@@ -1,7 +1,6 @@
 ---
 title: Loggernet interface
 ---
-
 ## Connect to the Droughtbox
 
 + Open LoggerNet v4.1
