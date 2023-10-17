@@ -25,9 +25,9 @@ title: Loggernet interface
 
 + Make sure that the `File Output Option` is set up as `Create unique file name`  
 
- + If you don't change the file path, your data file will be stored at `C:\Campbellsci\LoggerNet` 
++ If you don't change the file path, your data file will be stored at `C:\Campbellsci\LoggerNet` 
 
-  + In case that Network Map (located at the left hand of the image below) is not as shown in the picture below click on the `View` bottom and select `Standard` 
++ In case that Network Map (located at the left hand of the image below) is not as shown in the picture, click on the `View` bottom and select `Standard` to change 
 
 
 
