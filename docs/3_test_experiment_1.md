@@ -25,10 +25,11 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Recut a 40 cm long branch (weight should not be larger than 500 grams)
 + Seal the end of the branch with paraffine wax 
 + Measure the fresh weight of each branch
++ Check there is water in the reservoir located inside the box
 + Before placing the branches inside the Box, 
 	+ Set the temperature and relative humidity values and wait until these stabilize
-	+  Change the `TareNow` (located in the)
-+ Check there is water in the reservoir located inside the box
+	+  Change the `TareNow` flag (located in the Num Display window) from `false`  
+
 ### During the measurements 
 
 
