@@ -24,7 +24,7 @@ title: Loggernet interface
 
 + Make sure that the `File Output Option` is set up as `Create unique file name`  
 
-+ To save the data into the file press the `Collect Now` bottom. __This step must be done each time you want to save the data stored in the logger__ 
++ To save the data into the file press the `Collect Now` bottom. __This step must be done each time you want to save data__ 
 
 + If you don't change the file path, your data file will be stored at `C:\Campbellsci\LoggerNet` 
  
