@@ -26,7 +26,7 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Seal the end of the branch with paraffine wax 
 + Measure the fresh weight of each branch
 + Before placing the branches inside the Box, set the temperature and relative humidity values and wait until these stabilize
-+ Check there is water in the 
++ Check there is water in the reservoir located inside the box
 ### During the measurements 
 
 
