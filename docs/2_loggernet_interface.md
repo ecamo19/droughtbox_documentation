@@ -44,8 +44,9 @@ title: Loggernet interface
 ![numeric_display_window](media/loggernet_numeric_display.jpg)
 
 + The main inputs to can be change are:
-	+ ``
-	+ ``
+	+ `SetPointT`
+	+ `SetPointVPD`
+	+ 
 
 ```
 ### List of abbreviations in the numerical display 
@@ -221,7 +222,8 @@ title: Loggernet interface
    </td>
   </tr>
 </table>
-
+```
+```
 ## Setting up the graphs
 
 + Go to the Graphs tab --> Select a graph (Graph 1, Graph 2 or Graph 3)
