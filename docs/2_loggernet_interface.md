@@ -43,7 +43,7 @@ title: Loggernet interface
 
 ![numeric_display_window](media/loggernet_numeric_display.jpg)
 
-+ The main inputs that 
++ The main inputs that y
 ### List of abbreviations in the numerical display 
 
 
