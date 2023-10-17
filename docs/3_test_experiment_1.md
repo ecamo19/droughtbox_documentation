@@ -4,6 +4,8 @@ title: Dermination of residual water loss from small branches
 
 This protocol describes how to measure g<sub>res</sub> under __constant temperature and relative humidity__ 
 
+[VPD Calculator](https://cales.arizona.edu/vpdcalc/)
+
 # Procedure
 
 ## Materials-Equipments
