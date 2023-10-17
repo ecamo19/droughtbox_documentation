@@ -30,7 +30,7 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 + Before placing the branches inside the Box, 
 	+ Set the temperature and relative humidity values and wait until these stabilize
 	+ Change the `TareNow` flag (located in the Num Display window) from `false` to `true` 
-
+	
 ### During the measurements 
 
 
