@@ -11,8 +11,17 @@
             "id": "c8c38bcb63a584f1",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "empty",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "docs/2_loggernet_interface.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> development
             }
           }
         ]
@@ -81,6 +90,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "docs/2_loggernet_interface.md",
+>>>>>>> development
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "docs/2_loggernet_interface.md",
+>>>>>>> development
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "docs/2_loggernet_interface.md"
+              }
+>>>>>>> development
             }
           }
         ]
@@ -140,6 +163,7 @@
   },
   "active": "c8c38bcb63a584f1",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "mkdocs.yml",
     "docs/media/loggernet_show_values.jpg",
     "docs/media/loggernet_setup_datafile.jpg",
@@ -149,6 +173,10 @@
     "docs/media/loggernet_create_data_file.jpg",
     "docs/media/loggernet_connect.jpg",
     "docs/media/droughtbox.jpg",
+=======
+    "docs/3_test_experiment_1.md",
+    "docs/index.md",
+>>>>>>> development
     "docs/javascripts/katex.js",
     "docs/media",
     "docs/javascripts",

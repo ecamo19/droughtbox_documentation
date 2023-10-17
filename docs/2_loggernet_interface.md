@@ -6,8 +6,11 @@ title: Loggernet interface
 
 + Open LoggerNet v4.1
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> development
 + __Initial connect:__ Go to Main -->  and click on Connect
 
 	 ![Initial connect](media/loggernet_initial_connect.jpg)
@@ -25,14 +28,14 @@ title: Loggernet interface
 
 + __Create a new file__: Select Droughtbox at COM32  --> Go to the Data Files tab --> Select droughtbox --> change the name of the file following the format `YYYY_MM_DATE_OWNER.dat` for example `2023_08_10_erick.dat`
 
-	If you don't change the file path your data file will be stored at `C:\Campbellsci\LoggerNet` 
++ Make sure that the `File Output Option` is set up as `Create unique file name`  
 
-	To obtain the Network Map as shown in the picture below click on the `View` bottom and select `Standard` 
++ If you don't change the file path, your data file will be stored at `C:\Campbellsci\LoggerNet` 
 
-!`Explore what the collect buttom does`
++ In case that Network Map (located at the left hand of the image below) is not as shown in the picture, click on the `View` bottom and select `Standard` to change 
 
 
-![Create a new datafile](media/loggernet_create_data_file.jpg)
+	![Create a new datafile](media/loggernet_create_data_file.jpg)
 
 
 ## Open the numeric display
