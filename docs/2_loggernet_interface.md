@@ -51,10 +51,8 @@ title: Loggernet interface
 	+ `SetPointAbsH`
 	+ `SetPointRH`
 
-
 ```
 ### List of abbreviations in the numerical display 
-
 
 <table>
   <tr>
@@ -227,7 +225,6 @@ title: Loggernet interface
   </tr>
 </table>
 ```
-
 
 ## Setting up the graphs
 
