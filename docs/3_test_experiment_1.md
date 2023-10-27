@@ -22,7 +22,7 @@ This protocol describes how to measure g<sub>res</sub> under __constant temperat
 
 ## Before starting the measurements
 
-+ Recut a 40 cm long branch (weight should not be larger than 500 grams)
++ Recut a 40 cm long branch (weight should not be larger than 100 grams)
 + Measure the fresh weight of each branch
 + Measure the diameter of the branch at the cut end and at the top of branch 
 + Seal the end of the branch with parafilm
