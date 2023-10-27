@@ -74,7 +74,7 @@ title: Loggernet interface
   <tr>
    <td><em>PTempC</em>
    </td>
-   <td>
+   <td>Logger panel temperature (room temp)
    </td>
    <td>
    </td>
@@ -82,7 +82,7 @@ title: Loggernet interface
   <tr>
    <td><em>AirTC</em>
    </td>
-   <td>Measured air temperature inside the box 
+   <td>Air temp in box measured by Temp/RH sensor (slow response)
    </td>
    <td>
    </td>
@@ -98,7 +98,7 @@ title: Loggernet interface
   <tr>
    <td><em>TC</em>
    </td>
-   <td>
+   <td>Air temp in box measured by fine wired thermocouple (fast response)
    </td>
    <td>
    </td>
@@ -106,7 +106,7 @@ title: Loggernet interface
   <tr>
    <td><em>VPD</em>
    </td>
-   <td>Measured vapor pressure deficit inside the box
+   <td>Measured vapor pressure deficit inside the box, calculated from RH and AirTc
    </td>
    <td>
    </td>
@@ -114,7 +114,7 @@ title: Loggernet interface
   <tr>
    <td><em>AbsH</em>
    </td>
-   <td>Measured absolute humidity inside the box
+   <td>Measured absolute humidity inside the box, calculated from RH and AirTc 
    </td>
    <td>
    </td>
@@ -154,7 +154,7 @@ title: Loggernet interface
   <tr>
    <td><em>TarePeriod</em>
    </td>
-   <td>
+   <td>Time between automatic zeros (load is lifted from strain gauges and output signal taken as zero mass)
    </td>
    <td>
    </td>
@@ -162,7 +162,7 @@ title: Loggernet interface
   <tr>
    <td><em>err</em>
    </td>
-   <td>
+   <td>Used during tare to make sure values are stable
    </td>
    <td>
    </td>
@@ -170,7 +170,7 @@ title: Loggernet interface
   <tr>
    <td><em>TareCount</em>
    </td>
-   <td>
+   <td> Each time a tare occurs, TareCount is incremented by 1. The current value is stored in each data record. Makes it easy in R to use the values close to a tare event.
    </td>
    <td>
    </td>
@@ -178,7 +178,7 @@ title: Loggernet interface
   <tr>
    <td><em>TareNow</em>
    </td>
-   <td>
+   <td> Is a Boolean (`true` or `false`) flag either set by the code at each tare period or manually set `true` to force a tare.
    </td>
    <td>
    </td>
@@ -186,7 +186,7 @@ title: Loggernet interface
   <tr>
    <td><em>autozero</em>
    </td>
-   <td>
+   <td>if `true` the tare function is active, if `false` it is not.
    </td>
    <td>
    </td>
@@ -194,7 +194,7 @@ title: Loggernet interface
   <tr>
    <td><em>SetPointRH</em>
    </td>
-   <td>Desired Relative Humiity
+   <td>Desired Relative Humidity, calculated from SetPointVPD and SetPointT.
    </td>
    <td>
    </td>
@@ -202,7 +202,7 @@ title: Loggernet interface
   <tr>
    <td><em>SetPointT</em>
    </td>
-   <td>Desired Temperature
+   <td>Desired Temperature 
    </td>
    <td>
    </td>
@@ -218,7 +218,7 @@ title: Loggernet interface
   <tr>
    <td><em>SetPointAbsH</em>
    </td>
-   <td>Desired absolute humidity
+   <td>Desired absolute humidity, calculated from SetpointVPD and SetPointT
    </td>
    <td>grams
    </td>
