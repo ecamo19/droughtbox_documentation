@@ -1,27 +1,18 @@
 {
   "main": {
-    "id": "4384d31594e31901",
+    "id": "1af70ca2b25e2740",
     "type": "split",
     "children": [
       {
-        "id": "15c58c2530f9e8c6",
+        "id": "a81af9b492b2759d",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c38bcb63a584f1",
+            "id": "cfb66102fc94e5d1",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
               "type": "empty",
               "state": {}
-=======
-              "type": "markdown",
-              "state": {
-                "file": "docs/3_test_experiment_1.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> development
             }
           }
         ]
@@ -30,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "424ae6b1b9ecff66",
+    "id": "d5e1b89fe619410e",
     "type": "split",
     "children": [
       {
-        "id": "00e9d6418e085f04",
+        "id": "6a1424b44bf523bc",
         "type": "tabs",
         "children": [
           {
-            "id": "cc258a8d818e0600",
+            "id": "a9f2fb720d0d3bb2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +39,7 @@
             }
           },
           {
-            "id": "c3aaee892a80f8dc",
+            "id": "5c29635917ddad44",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +54,7 @@
             }
           },
           {
-            "id": "b2e91e71b82cb71d",
+            "id": "c789fb904867a716",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,27 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "a981e441a1ac8b35",
+    "id": "36adc628e38c26a4",
     "type": "split",
     "children": [
       {
-        "id": "fea4143fb6aa4c0c",
+        "id": "487740a3507b6ee5",
         "type": "tabs",
         "children": [
           {
-            "id": "05211939d29fbba6",
+            "id": "9ce7fb2253075222",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "docs/3_test_experiment_1.md",
-=======
-<<<<<<< HEAD
-=======
-                "file": "docs/2_loggernet_interface.md",
->>>>>>> development
->>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,26 +92,18 @@
             }
           },
           {
-            "id": "6b41d5a60abaa2d9",
+            "id": "0d5a1c2d7d91f414",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "docs/3_test_experiment_1.md",
-=======
-<<<<<<< HEAD
-=======
-                "file": "docs/2_loggernet_interface.md",
->>>>>>> development
->>>>>>> main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "46a0c5ca300660fd",
+            "id": "99c7601dd43c03e2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,17 +114,11 @@
             }
           },
           {
-            "id": "e04362d91cf825fd",
+            "id": "4502f1aaf9d57ac6",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {}
-=======
-              "state": {
-                "file": "docs/3_test_experiment_1.md"
-              }
->>>>>>> development
             }
           }
         ]
@@ -169,38 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8c38bcb63a584f1",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "docs/2_loggernet_interface.md",
-=======
-<<<<<<< HEAD
-    "mkdocs.yml",
-    "docs/media/loggernet_show_values.jpg",
-    "docs/media/loggernet_setup_datafile.jpg",
-    "docs/media/loggernet_open_numerical_display.jpg",
-    "docs/media/loggernet_numeric_display.jpg",
-    "docs/media/loggernet_initial_connect.jpg",
-    "docs/media/loggernet_create_data_file.jpg",
-    "docs/media/loggernet_connect.jpg",
-    "docs/media/droughtbox.jpg",
-=======
->>>>>>> main
-    "docs/3_test_experiment_1.md",
-    "docs/index.md",
->>>>>>> development
-    "docs/javascripts/katex.js",
-<<<<<<< HEAD
-    "docs/javascripts"
-=======
-    "docs/media",
-    "docs/javascripts",
-    "docs/index.md",
-    "docs/4_test_experiment_2.md",
-    "docs/3_test_experiment_1.md",
-    "docs/2_loggernet_interface.md",
-    "docs",
-    "README.md"
->>>>>>> main
-  ]
+  "active": "cfb66102fc94e5d1",
+  "lastOpenFiles": []
 }
